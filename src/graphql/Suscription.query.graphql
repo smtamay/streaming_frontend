@@ -1,0 +1,7 @@
+query getListStreamingPlataforms{
+  getListStreamingPlataforms{
+    id
+    name
+    
+  }
+}
